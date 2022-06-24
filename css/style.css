@@ -30,7 +30,7 @@ body {
   font-size: 14px;
   font-style: normal;
   font-weight: bold;
-  line-height: 17px;
+  line-height: 22px;
   color: #000;
   margin-bottom: 20px;
 }
@@ -45,9 +45,9 @@ body {
 }
 
 .about-me-description {
-  width: 400px;
   font-style: normal;
   font-weight: normal;
+  text-align: justify;
   font-size: 14px;
   line-height: 24px;
   color: #595959;
@@ -143,13 +143,13 @@ body {
 }
 
 .contacts-section {
-  margin: 50px 0 0 40px;
+  margin: 40px 0 0 40px;
 }
 .tech-skills-section {
-  margin: 50px 0 0 40px;
+  margin: 40px 0 0 40px;
 }
 .soft-skills-section {
-  margin: 50px 0 0 40px;
+  margin: 40px 0 0 40px;
 }
 
 .sidebar-title {
@@ -163,18 +163,20 @@ body {
 
 /* contacts section */
 .contacts-section-link {
-  color: #565e6a;
+  /* color: #565e6a; */
+  color: #fb6d3a;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
+  text-decoration: none;
 }
 .contacts-section-type {
   font-weight: bold;
   font-size: 14px;
   line-height: 24px;
-  color: #fff;
-  margin-right: 7px;
+  fill: #fff;
+  margin-right: 5px;
 }
 /* tech-skills-section */
 .tech-skills-list {
