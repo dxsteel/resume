@@ -82,6 +82,15 @@ body {
   margin-left: 5px;
 }
 
+.my-projects-text-black {
+  font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: black;
+    margin-left: 5px;
+}
+
 .my-projects-link {
   font-style: normal;
   font-weight: normal;
